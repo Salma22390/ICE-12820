@@ -1,0 +1,8 @@
+{
+	"username":"Salma.Banu@consiliotest.com",
+	"version": "9.1.0.0",
+	"ICE API":"LVSVTAUCMW11",
+	"ICE Database":"LVSVTDUCSQL11",
+	"Master Worker":"LVSVTAUCMW11",
+	"Remote Workers":["LVSVTAUCRW14", "LVSVTAUCRW13", "LVSVTAUCRW12", "LVSVTAUCRW15"]
+}
